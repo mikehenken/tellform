@@ -1,5 +1,5 @@
 Introduction
-===========
+=============
 
 TellForm is a powerful, open-source form/survey tool that allows you to get data from your users quickly and easily while collecting powerful analytics to improve your surveys. TellForm offers a field by field analytics, custom subdomains per-user, an extendable API, logic-based field jumping, per-device visitor analytics and 11 types of form fields.
 
